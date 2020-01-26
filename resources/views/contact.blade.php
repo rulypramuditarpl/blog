@@ -1,10 +1,10 @@
 @extends('main')
 
-@section('title','About')
+@section('title','Contact')
 
 
 @section('container')
 <div class="container">
-    <h1>rulypramudita</h1>
+    <h1>INI CONTACT!</h1>
  </div>
  @endsection
